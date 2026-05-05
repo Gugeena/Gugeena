@@ -14,8 +14,7 @@ Fun fact: I'm a mma fighter.
 
 ## 🚀 Featured Projects
 - 🎰 **Cruellete** – 2D boss rush game with evolving combat mechanics  
-- 🧠 **Owl.Nest** – Java servlet-based book rental system  
 - 💣 **Panzer** – Tank arena game built to master Lua  
 - 🐦 **Pigeon.Nest** – Java desktop email application with full client functionality  
 - 🔥 **Hellbound** – Released game on Steam  
-MORE INCOMING
+AND MORE
