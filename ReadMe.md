@@ -14,4 +14,4 @@ I’m a teenage developer currently working on multiple projects, including Owl.
 - 💣 **Panzer** – Tank arena game built to master Lua  
 - 🐦 **Pigeon.Nest** – Java desktop email application with full client functionality  
 - 🔥 **Hellbound** – Released game on Steam  
-MORE COMING
+MORE INCOMING
