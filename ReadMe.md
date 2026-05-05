@@ -1,5 +1,9 @@
 # ✦ About Me:
-I’m a teenage developer currently working on multiple projects, including Owl.Nest, a Java servlet-based book rental prototype to sharpen my backend skills, Cruellete, a 2D boss rush game, and Panzer Alpha, a tank arena game I’m building to learn Lua. I’m open to collaborating on pretty much anything, though I usually need help with art. Right now, I’m focused on learning Lua, Java, and fullstack development tools. I’m confident in my ability to figure things out and tackle almost any problem thrown at me, especially when it comes to game development. Fun fact: I’m also an MMA fighter.
+I’m a teenage developer focused on improving my skills in software and game development. I work mainly with Java, backend systems, and game development tools, while also exploring other programming languages and full-stack concepts. I enjoy building interactive projects and learning through hands-on problem solving.
+
+I’m open to collaboration on a wide range of projects and usually focus on the technical side of development, especially logic, systems, and gameplay mechanics. I’m currently focused on becoming more versatile across backend development and game creation.
+
+Fun fact: I'm a mma fighter.
 
 
 ## 🌐 Socials:
