@@ -3,7 +3,7 @@ I’m a teenage developer focused on improving my skills in software and game de
 
 I’m open to collaboration on a wide range of projects and usually focus on the technical side of development, especially logic, systems, and gameplay mechanics. I’m currently focused on becoming more versatile across backend development and game creation.
 
-Fun fact: I'm a mma fighter.
+Fun fact: I love mma.
 
 
 ## 🌐 Socials:
