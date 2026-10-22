@@ -1,0 +1,28 @@
+# ✦ About Me:
+I’m a teenage developer focused on improving my skills in software and game development. I work mainly with Java, backend systems, and game development tools, while also exploring other programming languages and full-stack concepts. I enjoy building interactive projects and learning through hands-on problem solving.
+
+I’m open to collaboration on a wide range of projects and usually focus on the technical side of development, especially logic, systems, and gameplay mechanics. I’m currently focused on becoming more versatile across backend development and game creation.
+
+Fun fact: I love mma.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gug3na) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Gugena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gugena635@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![LÖVE2D](https://img.shields.io/badge/LÖVE2D-%23EAAE36.svg?style=plastic&logo=love&logoColor=white)
+
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=plastic&logo=Aseprite&logoColor=%237D929E) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=%23EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=plastic&logo=thymeleaf&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=plastic&logo=mockito&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7) ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic&logo=arduino&logoColor=white)
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=plastic&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=plastic&logo=openai&logoColor=white)
+
+## 🚀 Featured Projects
+- 🎰 **Cruellete** – 2D boss rush game with evolving combat mechanics  
+- 💣 **Panzer** – Tank arena game built to master Lua  
+- 🐦 **Pigeon.Nest** – Java desktop email application with full client functionality  
+- 🔥 **Hellbound** – Released game on Steam  
+- 🥊 BlackJack.Nest – Online UFC fantasy betting site where users place wagers on outcomes like decision, knockout, or submission and earning payouts based on accuracy, In parlay or individual picks.
+- 🦇 **Count Dracula Is Down** – Rhythm-driven puzzle platformer where every beat reshapes the world.
+- 🎬 Pirosman Studio — An open-source video editor built with Rust and Tauri, designed to make video editing more flexible with Git-like version control and live collaboration.
