@@ -21,7 +21,7 @@ Fun fact: I love mma.
 ## 🚀 Featured Projects
 - 🎰 **Cruellete** – 2D boss rush game with evolving combat mechanics  
 - 💣 **Panzer** – Tank arena game built to master Lua  
-- 🐦 **Pigeon.Nest** – Java desktop email application with full client functionality  
+- 🐦 **Pigeon.Nest** – Java desktop email application with full client functionality (Not operational right now, the database is off for some time)
 - 🔥 **Hellbound** – Released game on Steam  
 - 🥊 **BlackJack.Nest** – Online UFC fantasy betting site where users place wagers on outcomes like decision, knockout, or submission and earning payouts based on accuracy, In parlay or individual picks.
 - 🦇 **Count Dracula Is Down** – Rhythm-driven puzzle platformer where every beat reshapes the world.
